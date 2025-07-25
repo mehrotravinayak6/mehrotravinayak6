@@ -1,33 +1,61 @@
-👋 Hi, I'm #Vinayak Mehrotra! 🚀
+# 👋 Hi, I'm **Vinayak Mehrotra**! 🚀
 
-I'm a passionate MERN Stack Developer with a knack for building modern, scalable web applications. With expertise in Node.js, TypeScript, Express, MongoDB, and tools like Bun, and Postman, I craft robust and efficient solutions. I'm also an expert in Python, leveraging its versatility for everything from automation to data-driven projects. 🐍💻
+I'm a passionate **MERN Stack Developer** with a flair for crafting modern, scalable web applications. My expertise spans **Node.js**, **TypeScript**, **Express**, **MongoDB**, and tools like **npm**, **Bun**, and **Postman**. I'm also an **expert in Python**, harnessing its power for automation, data-driven projects, and beyond. 🐍💻
 
-💡 What I Bring to the Table
+## 💡 What I Bring to the Table
 
-Innovative Problem Solver: I thrive on tackling complex challenges, breaking them down into manageable solutions with creativity and precision. 🧠
-Dedicated Learner: If I don’t know something, I dive in headfirst, learning new concepts and technologies to get the job done. 📚
-MERN Mastery: From crafting sleek React frontends to building RESTful APIs with Express and MongoDB, I deliver full-stack excellence. 🌐
-Python Prowess: Whether it's scripting, data analysis, or backend development, I wield Python with confidence and finesse. 🔧
+- **Innovative Problem Solver**: I tackle complex challenges with creative, precise solutions. 🧠
+- **Dedicated Learner**: When faced with unknowns, I dive in, mastering new concepts to deliver results. 📚
+- **MERN Mastery**: From sleek React frontends to robust Express and MongoDB backends, I deliver full-stack excellence. 🌐
+- **Python Prowess**: I wield Python for scripting, data analysis, and backend development with finesse. 🔧
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: React, JavaScript, TypeScript, HTML, CSS
-Backend: Node.js, Express, Bun
-Database: MongoDB
-Tools: npm, Postman, Git, GitHub
-Languages: Python, JavaScript, TypeScript
-Other: REST APIs, GraphQL, CI/CD
+- **Frontend**: React, JavaScript, TypeScript, HTML, CSS
+- **Backend**: Node.js, Express, Bun
+- **Database**: MongoDB
+- **Tools**: npm, Postman, Git, GitHub
+- **Languages**: Python, JavaScript, TypeScript
+- **Other**: REST APIs, GraphQL, CI/CD
 
-🌟 Why Work With Me?
+## 📊 My Skills
 
-I'm driven by a passion for clean code, user-centric design, and continuous improvement. I approach every project with enthusiasm, ensuring scalable and maintainable solutions. My innovative mindset and dedication to learning make me a reliable teammate for any challenge. 💪
+### Core Competencies
+| Skill             | Proficiency                     |
+|-------------------|---------------------------------|
+| MERN Stack        | 🌟🌟🌟🌟🌟🌟🌟🌟🌟☆ 90% |
+| Node.js           | 🌟🌟🌟🌟🌟🌟🌟🌟☆☆ 85%  |
+| TypeScript        | 🌟🌟🌟🌟🌟🌟🌟🌟☆☆ 80%  |
+| Python            | 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 95% |
+| MongoDB           | 🌟🌟🌟🌟🌟🌟🌟🌟☆☆ 80%  |
+| Express           | 🌟🌟🌟🌟🌟🌟🌟🌟☆☆ 85%  |
+| Postman & APIs    | 🌟🌟🌟🌟🌟🌟🌟☆☆☆ 75%  |
 
-📫 Let's Connect!
+### Toolset Proficiency
+```
+🔧 npm:          ██████████▊ 90% ✨
+🔧 Bun:          ███████▋ 75% ✨
+🔧 Postman:      ████████▎ 80% ✨
+🔧 Git/GitHub:   █████████▌ 85% ✨
+```
 
-📧 Email: mehrotravinayak6@gmail.com
+### Skill Spotlight
+- **React**: 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ 90%  
+- **Python**: 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 95%  
+- **Node.js**: 🟣🟣🟣🟣🟣🟣🟣🟣⚪⚪ 85%  
+- **MongoDB**: 🟠🟠🟠🟠🟠🟠🟠⚪⚪⚪ 80%
 
-📧 Official Email: vinayakmehrotra_202310101110727
+## 🌟 Why Work With Me?
 
-💼 LinkedIn: (https://www.linkedin.com/in/vinayak-mehrotra-228a53224/)
+I'm driven by a passion for clean code, user-centric design, and continuous improvement. My innovative mindset and dedication to learning make me a reliable teammate for any challenge. I approach every project with enthusiasm, ensuring scalable and maintainable solutions. 💪
 
-Feel free to explore my repositories to see my work in action! Let's build something amazing together. 🚀
+## 📫 Let's Connect!
+
+- 📧 Email: mehrotravinayak6@gmail.com
+- 📧 Official Email: vinayakmehrotra_202310101110727@srmu.ac.in
+- 💼 LinkedIn: (https://www.linkedin.com/in/vinayak-mehrotra-228a53224/)
+- 🌐 My Company Portfolio: veridian-devs.vercel.app
+
+Explore my repositories to see my work in action! Let's build something extraordinary together. 🚀
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
