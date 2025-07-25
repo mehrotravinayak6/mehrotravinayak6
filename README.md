@@ -21,7 +21,9 @@ I'm driven by a passion for clean code, user-centric design, and continuous impr
 📫 Let's Connect!
 
 📧 Email: mehrotravinayak6@gmail.com
+
 📧 Official Email: vinayakmehrotra_202310101110727
+
 💼 LinkedIn: (https://www.linkedin.com/in/vinayak-mehrotra-228a53224/)
 
 Feel free to explore my repositories to see my work in action! Let's build something amazing together. 🚀
