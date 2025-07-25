@@ -54,7 +54,7 @@ I'm driven by a passion for clean code, user-centric design, and continuous impr
 - 📧 Email: mehrotravinayak6@gmail.com
 - 📧 Official Email: vinayakmehrotra_202310101110727@srmu.ac.in
 - 💼 LinkedIn: (https://www.linkedin.com/in/vinayak-mehrotra-228a53224/)
-- 🌐 My Company Portfolio: veridian-devs.vercel.app
+- 🌐 My Company Portfolio: (https://veridian-devs.vercel.app/)
 
 Explore my repositories to see my work in action! Let's build something extraordinary together. 🚀
 
